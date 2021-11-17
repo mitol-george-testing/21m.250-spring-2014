@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c20bc540-62dc-a600-b061-045e7dde40e9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Beethoven to Mahler",
+  "course_description": "This course surveys Romantic musical genres including song, choral music, opera, piano sonata, character cycle, concerto, symphony, and symphonic poem, including the composers Beethoven, Schubert, Berlioz, Chopin, Brahms, Wagner, Verdi, Tchaikovsky, and Mahler. Written essays and oral presentations are based on live performances as well as listening and reading assignments.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.250",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
